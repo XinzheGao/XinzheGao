@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+back-end+software+engineer+from+Italy" alt="Welcome to my GitHub Profile. I love new technologies and I'm just one small developer among millions of developers. I am from China and currently studying in Japan." />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+programmer+from+China." alt="I am a programmer from China." /></a>
 </p>
 
 <p align='center' style='margin: 16px 4px 8px;'>
