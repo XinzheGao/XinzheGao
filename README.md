@@ -48,5 +48,3 @@
 </p>
 
 ---
-
-<sub align="center">Designed with 🍎-like minimalism</sub>
