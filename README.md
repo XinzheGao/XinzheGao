@@ -42,9 +42,8 @@
 ## 🧭 Find Me
 
 <p align="center">
-  <a href="mailto:your_email@example.com">Email</a> • 
-  <a href="https://yourwebsite.com">Website</a> • 
-  <a href="https://linkedin.com/in/yourname">LinkedIn</a>
+  <a href="mailto:gap-yiqian@outlook.com">Email</a> • 
+  <a href="https://www.shintetu.com">Website</a> • 
 </p>
 
 ---
