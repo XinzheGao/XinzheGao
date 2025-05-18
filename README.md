@@ -34,7 +34,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=graywhite&hide_title=true&hide=issues&hide_rank=true" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pride-Setsuna&show_icons=true&theme=graywhite&hide_title=true&hide=issues&hide_rank=true" width="500">
 </p>
 
 ---
