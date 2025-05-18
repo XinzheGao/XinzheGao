@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: 600;">Gao Xinzhe</h1>
+<h1 align="center" style="font-weight: 600;">Xinzhe</h1>
 <p align="center">Computer Science Student · iOS Dev · AI NPC Enthusiast</p>
 
 <br/>
