@@ -38,12 +38,3 @@
 </p>
 
 ---
-
-## 🧭 Find Me
-
-<p align="center">
-  <a href="mailto:gap-yiqian@outlook.com">Email</a> • 
-  <a href="https://www.shintetu.com">Website</a>
-</p>
-
----
