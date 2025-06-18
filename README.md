@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Third-year Computer Science student based in Tokyo  
+- 🎓 Third-year Computer Science student based in Tokyo   
 - 🍎 Passionate about iOS development — currently mastering Swift & SwiftUI  
 - 🤖 Developing LLM-powered NPC dialogue systems for immersive gaming experiences  
 - 🌐 Advocate for minimalist design, clean code, and elegant UIs  
