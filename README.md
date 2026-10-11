@@ -1,26 +1,28 @@
-<a href="https://xinzhe.dev">
-  <img align="right" src="https://xinzhe.dev/%E5%9B%B32.png" alt="Xinzhe's Memoji from xinzhe.dev" width="160" />
-</a>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Xinzhe Gao — AI Applications, Agents, Game AI" width="960" />
+</p>
 
-# 你好，我是信哲。
+<div align="center">
 
-*Dream it. Chase it. Code it.* ✦
+**AI Applications · Agents · Game AI**
 
-Computer science student exploring **AI applications, Agents, and game AI**.
+Building practical tools with language models, and exploring how AI characters express personality.
 
-用代码连接想法与日常，也记录学习、项目和生活中的小发现。
+用代码连接想法与日常：AI 应用、Agent 工作流与游戏 NPC。
 
-[个人网站 ↗](https://xinzhe.dev) · [学习笔记](https://xinzhe.dev/notes) · [项目](https://xinzhe.dev/projects)
+[Agent Project](https://github.com/XinzheGao/ai-content-agent) · [NPC Research](https://github.com/XinzheGao/NPC_Personality_Comparison)
 
-<br clear="both" />
+</div>
 
 ---
 
-### About
+### 👋 About
 
-My projects explore LLM workflows and personality-driven NPC dialogue. I enjoy building useful software with simple interfaces and readable code.
+I'm a computer science student interested in AI applications and software development. My projects explore LLM workflows, personality-driven NPC dialogue, and tools for everyday use.
 
-### Selected projects
+I value simple interfaces, readable code, and projects that solve concrete problems.
+
+### 🧩 Selected projects
 
 | Project | Focus |
 | :--- | :--- |
@@ -28,23 +30,32 @@ My projects explore LLM workflows and personality-driven NPC dialogue. I enjoy b
 | **[NPC Personality Comparison](https://github.com/XinzheGao/NPC_Personality_Comparison)** | Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings. |
 | **[Xinzhe.Blog](https://github.com/XinzheGao/Xinzhe.Blog)** | A personal technical blog built with Next.js and Notion. |
 
-### Tools & interests
+### 🛠 Tools & interests
 
 <p>
-  <img src="./assets/stack.svg" alt="Python · JavaScript / TypeScript · Next.js · Git · LLMs / Agents" width="520" />
+  <img src="./assets/stack.svg" alt="Python · TypeScript · Next.js · Git · LLMs / Agents" width="630" />
 </p>
 
-LLM tool use · Agent workflows · NPC dialogue
+**Tools** — Python · JavaScript / TypeScript · Next.js · Git
+
+**Exploring** — LLM tool use · Agent workflows · NPC dialogue
+
+### 💡 A workflow worth exploring
+
+```text
+  an idea         a plan          a tool          something useful
+     💬     →       🧠      →       🔧      →            ✨
+```
 
 <details>
-<summary>A few things I'm curious about</summary>
+<summary>A little more about my interests</summary>
 
-- How natural-language requests become useful actions.
-- How dialogue gives a game character a recognizable personality.
-- How small tools make everyday tasks easier.
+- **Agents:** how natural-language requests become useful actions.
+- **Game AI:** how dialogue gives a character a recognizable personality.
+- **Software:** how small tools make everyday tasks easier.
 
 </details>
 
 ---
 
-<sub>✧ Small ideas, useful things. &nbsp; More notes and projects at <a href="https://xinzhe.dev">xinzhe.dev ↗</a></sub>
+Open to conversations about AI applications, game AI, and useful software. Feel free to explore the repositories and their project discussions.
