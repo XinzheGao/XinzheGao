@@ -8,7 +8,7 @@ Building practical tools with language models, and exploring how AI characters e
 
 用代码连接想法与日常：AI 应用、Agent 工作流与游戏 NPC。
 
-[Agent Project](https://github.com/XinzheGao/ai-content-agent) · [NPC Research](https://github.com/XinzheGao/NPC_Personality_Comparison) · [Safari Extension](https://github.com/XinzheGao/night-safari)
+[Agent Project](https://github.com/XinzheGao/ai-content-agent) · [NPC Research](https://github.com/XinzheGao/NPC_Personality_Comparison)
 
 </div>
 
@@ -26,14 +26,13 @@ I value simple interfaces, readable code, and projects that solve concrete probl
 | :--- | :--- |
 | **[AI Content Agent](https://github.com/XinzheGao/ai-content-agent)** | Exploring conversational content workflows with LLMs, Telegram, and Notion. |
 | **[NPC Personality Comparison](https://github.com/XinzheGao/NPC_Personality_Comparison)** | Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings. |
-| **[Night Safari](https://github.com/XinzheGao/night-safari)** | A Safari dark-mode extension prototype combining native website themes with the Dark Reader engine. |
 | **[Xinzhe.Blog](https://github.com/XinzheGao/Xinzhe.Blog)** | A personal technical blog built with Next.js and Notion. |
 
 ### Tools & interests
 
 **Tools** — Python · JavaScript / TypeScript · Next.js · Git
 
-**Exploring** — LLM tool use · Agent workflows · NPC dialogue · Browser extensions
+**Exploring** — LLM tool use · Agent workflows · NPC dialogue
 
 ---
 
