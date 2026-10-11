@@ -9,9 +9,9 @@
 <g font-family="'PingFang SC','PingFang TC',-apple-system,BlinkMacSystemFont,sans-serif">
 <text x="8" y="24" font-size="12" letter-spacing="2" fill="#64645f">XINZHE GAO</text>
 <g fill="#1b1b1b" font-weight="600">
-<text x="8" y="106" font-size="64">〈Developer /〉</text>
-<rect class="cursor" x="506" y="56" width="10" height="53" fill="#80807a"/>
-<text x="522" y="106" font-size="64">, explorer,</text>
+<text x="-32" y="106" font-size="64">〈Developer /〉</text>
+<rect class="cursor" x="431" y="56" width="10" height="53" fill="#80807a"/>
+<text x="448" y="106" font-size="64">, explorer,</text>
 <text x="80" y="184" font-size="64">learning by building.</text>
 <svg x="0" y="128" width="76" height="76" viewBox="0 0 1024 1024">
 <g transform="translate(1024 0) scale(-1 1)" fill="#1b1b1b">
