@@ -8,7 +8,7 @@
 ### Selected work
 
 <p>
-<a href="https://github.com/XinzheGao/ai-content-agent">
+<a href="https://github.com/XinzheGao/llm-task-agent">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-agent-dark.svg" />
     <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-agent.svg" alt="AI Content Agent — Exploring conversational content workflows with LLMs, Telegram, and Notion." width="1000" />
