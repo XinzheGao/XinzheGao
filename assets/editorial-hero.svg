@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
 <title id="title">Xinzhe Gao — Developer, builder, explorer</title>
 <desc id="desc">Computer science student exploring AI applications, Agent workflows, and game AI.</desc>
+<style>
+.cursor { animation: blink 1.2s step-end infinite; }
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+</style>
 <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
 <text x="8" y="24" font-size="12" letter-spacing="2" fill="#64645f">XINZHE GAO</text>
-<g fill="#1b1b1b" font-weight="750" letter-spacing="-3">
-<text x="4" y="120" font-size="86">&lt;Developer /&gt;,</text>
-<text x="4" y="218" font-size="86">builder, explorer.</text>
+<g fill="#1b1b1b" font-weight="750" letter-spacing="-2">
+<text x="4" y="106" font-size="64" textLength="438" lengthAdjust="spacingAndGlyphs">&lt;Developer /&gt;</text>
+<rect class="cursor" x="451" y="56" width="4" height="53" rx="1"/>
+<text x="470" y="106" font-size="64">,</text>
+<text x="4" y="184" font-size="64">builder, explorer.</text>
 </g>
 <g fill="#64645f" font-size="24" letter-spacing="-.25">
-<text x="8" y="279">Hi, I'm Xinzhe, a computer science student exploring AI applications,</text>
-<text x="8" y="314">Agent workflows, and game AI. I enjoy turning small ideas into useful</text>
-<text x="8" y="349">software, and sharing what I learn along the way.</text>
+<text x="8" y="244">Hi, I'm Xinzhe, a computer science student exploring AI applications,</text>
+<text x="8" y="276">Agent workflows, and game AI. I enjoy turning small ideas into useful</text>
+<text x="8" y="308">software, and sharing what I learn along the way.</text>
 </g>
 </g>
 <g stroke="#64645f" stroke-width="1.5" fill="none">
