@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/3d1ffb5f353ca2c35917e72cb6d864b9475a2c2a/assets/editorial-hero-dark.svg" />
-  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/3d1ffb5f353ca2c35917e72cb6d864b9475a2c2a/assets/editorial-hero.svg" alt="Xinzhe Gao — Developer, explorer, learning by building. A computer science student exploring AI applications, Agent workflows, and game AI." width="1000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/ed9b1a7f9af4132e930912445c5e52c75b5f7e44/assets/editorial-hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/ed9b1a7f9af4132e930912445c5e52c75b5f7e44/assets/editorial-hero.svg" alt="Xinzhe Gao — Developer, explorer, learning by building. A computer science student exploring AI applications, Agent workflows, and game AI." width="1000" />
 </picture>
 
 <br />
