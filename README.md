@@ -1,55 +1,40 @@
-<h1 align="center" style="font-weight: 600;">Xinzhe</h1>
-<p align="center">Computer Science Student · iOS Dev · AI NPC Enthusiast</p>
+<div align="center">
 
-<br />
+# Xinzhe Gao
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-</p>
+**AI Applications · Agents · Game AI**
 
----
+Building practical tools with language models, and exploring how AI characters express personality.
 
-## 🧠 About Me
+用代码连接想法与日常：AI 应用、Agent 工作流与游戏 NPC。
 
-- 🎓 Third-year Computer Science student based in Tokyo   
-- 🍎 Passionate about iOS development — currently mastering Swift & SwiftUI  
-- 🤖 Developing LLM-powered NPC dialogue systems for immersive gaming experiences  
-- 🌐 Advocate for minimalist design, clean code, and elegant UIs  
-
----
-
-## 🧩 Projects
-
-| Project            | Description                                       |
-|--------------------|-------------------------------------------------|
-| 🎮 AI-NPC Chat System | Offline-capable Generative Agent-based NPC dialogue system |
-| 📱 Flip Card Game    | iOS Emoji matching game built with SwiftUI      |
-| 🧾 Personnel System  | Locally deployed BuildAdmin-based profile management system |
-
----
-
-<div align="left">
-
-## 📊 GitHub Stats
-
-<p style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=XinzheGao&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" 
-    alt="GitHub Stats" 
-    width="400" height="150" 
-    style="border-radius: 8px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinzheGao&layout=compact" 
-    alt="Top Languages" 
-    width="400" height="150" 
-    style="border-radius: 8px;"
-  />
-</p>
+[Agent Project](https://github.com/XinzheGao/ai-content-agent) · [NPC Research](https://github.com/XinzheGao/NPC_Personality_Comparison) · [Safari Extension](https://github.com/XinzheGao/night-safari)
 
 </div>
-</p>
 
+---
+
+### About
+
+I'm a computer science student interested in AI applications and software development. My projects explore LLM workflows, personality-driven NPC dialogue, and tools for everyday use.
+
+I value simple interfaces, readable code, and projects that solve concrete problems.
+
+### Selected projects
+
+| Project | Focus |
+| :--- | :--- |
+| **[AI Content Agent](https://github.com/XinzheGao/ai-content-agent)** | Exploring conversational content workflows with LLMs, Telegram, and Notion. |
+| **[NPC Personality Comparison](https://github.com/XinzheGao/NPC_Personality_Comparison)** | Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings. |
+| **[Night Safari](https://github.com/XinzheGao/night-safari)** | A Safari dark-mode extension prototype combining native website themes with the Dark Reader engine. |
+| **[Xinzhe.Blog](https://github.com/XinzheGao/Xinzhe.Blog)** | A personal technical blog built with Next.js and Notion. |
+
+### Tools & interests
+
+**Tools** — Python · JavaScript / TypeScript · Next.js · Git
+
+**Exploring** — LLM tool use · Agent workflows · NPC dialogue · Browser extensions
+
+---
+
+Open to conversations about AI applications, game AI, and useful software. Feel free to explore the repositories and their project discussions.
