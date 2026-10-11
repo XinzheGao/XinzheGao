@@ -39,8 +39,8 @@
 ### Currently exploring
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/exploring-dark.svg" />
-  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/exploring.svg" alt="LLM tool use: connecting models to useful actions. Agent workflows: planning, tool calls, and useful feedback. NPC dialogue: exploring personality through conversation." width="1000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/fe7859c594bfa920aa3498d4b9c6cd8949e2784c/assets/exploring-dark.svg" />
+  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/fe7859c594bfa920aa3498d4b9c6cd8949e2784c/assets/exploring.svg" alt="Tool use: connecting models to useful actions. Agent workflows: making multi-step tasks more reliable. NPC dialogue: exploring personality through conversation." width="1000" />
 </picture>
 
 ### Toolkit
