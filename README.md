@@ -3,8 +3,6 @@
   <img src="./assets/editorial-hero.svg" alt="Xinzhe Gao — Developer, builder, explorer. A computer science student exploring AI applications, Agent workflows, and game AI." width="1000" />
 </picture>
 
-[Website ↗](https://xinzhe.dev) &nbsp; / &nbsp; [Notes ↗](https://xinzhe.dev/notes) &nbsp; / &nbsp; [Projects ↗](https://xinzhe.dev/projects)
-
 <br />
 
 ### Selected work
