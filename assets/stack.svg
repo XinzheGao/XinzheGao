@@ -1,14 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="36" viewBox="0 0 580 36" role="img" aria-label="Python, JavaScript / TypeScript, Next.js, Git, LLMs / Agents">
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="12" text-anchor="middle" fill="#57606a">
-    <rect x="1" y="1" width="90" height="32" rx="8" fill="#f6f8fa" stroke="#e4e7eb"/>
-    <text x="46" y="22">Python</text>
-    <rect x="101" y="1" width="120" height="32" rx="8" fill="#f6f8fa" stroke="#e4e7eb"/>
-    <text x="161" y="22">JavaScript / TS</text>
-    <rect x="231" y="1" width="100" height="32" rx="8" fill="#f6f8fa" stroke="#e4e7eb"/>
-    <text x="281" y="22">Next.js</text>
-    <rect x="341" y="1" width="80" height="32" rx="8" fill="#f6f8fa" stroke="#e4e7eb"/>
-    <text x="381" y="22">Git</text>
-    <rect x="431" y="1" width="146" height="32" rx="8" fill="#f6f8fa" stroke="#e4e7eb"/>
-    <text x="504" y="22">LLMs / Agents</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="38" viewBox="0 0 630 38" role="img" aria-label="Python, TypeScript, Next.js, Git, LLMs">
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="13" text-anchor="middle">
+<rect x="0" y="1" width="108" height="34" rx="8" fill="#14233b" stroke="#3d6394"/><text x="54" y="23" fill="#9dc7ff">Python</text>
+<rect x="120" y="1" width="130" height="34" rx="8" fill="#14233b" stroke="#3d6394"/><text x="185" y="23" fill="#9dc7ff">TypeScript</text>
+<rect x="262" y="1" width="114" height="34" rx="8" fill="#1a2230" stroke="#66758a"/><text x="319" y="23" fill="#e4ebf5">Next.js</text>
+<rect x="388" y="1" width="90" height="34" rx="8" fill="#2c2121" stroke="#986147"/><text x="433" y="23" fill="#f4b18e">Git</text>
+<rect x="490" y="1" width="138" height="34" rx="8" fill="#132c2b" stroke="#368a75"/><text x="559" y="23" fill="#83dfc7">LLMs / Agents</text>
+</g></svg>
