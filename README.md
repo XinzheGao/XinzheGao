@@ -10,8 +10,8 @@
 <p>
 <a href="https://github.com/XinzheGao/llm-task-agent">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-agent-dark.svg" />
-    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-agent.svg" alt="AI Content Agent — Exploring conversational content workflows with LLMs, Telegram, and Notion." width="1000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/2025a35f176f7152667cb416c5ee3e4a41f27a62/assets/work-agent-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/2025a35f176f7152667cb416c5ee3e4a41f27a62/assets/work-agent.svg" alt="LLM Task Agent — Task planning, tool use, and reliable Notion workflows with Python and LangGraph." width="1000" />
   </picture>
 </a>
 </p>
