@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370" role="img" aria-labelledby="title desc">
+<title id="title">Xinzhe Gao — Developer, builder, explorer</title>
+<desc id="desc">Computer science student exploring AI applications, Agent workflows, and game AI.</desc>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<text x="8" y="24" font-size="12" letter-spacing="2" fill="#64645f">XINZHE GAO</text>
+<g fill="#1b1b1b" font-weight="750" letter-spacing="-3">
+<text x="4" y="120" font-size="86">&lt;Developer /&gt;,</text>
+<text x="4" y="218" font-size="86">builder, explorer.</text>
+</g>
+<g fill="#64645f" font-size="24" letter-spacing="-.25">
+<text x="8" y="279">Hi, I'm Xinzhe, a computer science student exploring AI applications,</text>
+<text x="8" y="314">Agent workflows, and game AI. I enjoy turning small ideas into useful</text>
+<text x="8" y="349">software, and sharing what I learn along the way.</text>
+</g>
+</g>
+<g stroke="#64645f" stroke-width="1.5" fill="none">
+<path d="M884 156Q884 170 898 170Q884 170 884 184Q884 170 870 170Q884 170 884 156Z"/>
+<path d="M912 142V154M906 148H918"/>
+</g>
+</svg>
