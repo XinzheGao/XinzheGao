@@ -1,61 +1,35 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Xinzhe Gao — AI Applications, Agents, Game AI" width="960" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-hero-dark.svg" />
+  <img src="./assets/editorial-hero.svg" alt="Xinzhe Gao — Developer, builder, explorer. A computer science student exploring AI applications, Agent workflows, and game AI." width="1000" />
+</picture>
 
-<div align="center">
+[Website ↗](https://xinzhe.dev) &nbsp; / &nbsp; [Notes ↗](https://xinzhe.dev/notes) &nbsp; / &nbsp; [Projects ↗](https://xinzhe.dev/projects)
 
-**AI Applications · Agents · Game AI**
+<br />
 
-Building practical tools with language models, and exploring how AI characters express personality.
+### Selected work
 
-用代码连接想法与日常：AI 应用、Agent 工作流与游戏 NPC。
+**[AI Content Agent ↗](https://github.com/XinzheGao/ai-content-agent)**  
+Exploring conversational content workflows with LLMs, Telegram, and Notion.
 
-[Agent Project](https://github.com/XinzheGao/ai-content-agent) · [NPC Research](https://github.com/XinzheGao/NPC_Personality_Comparison)
+**[NPC Personality Comparison ↗](https://github.com/XinzheGao/NPC_Personality_Comparison)**  
+Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings.
 
-</div>
+**[Xinzhe.Blog ↗](https://github.com/XinzheGao/Xinzhe.Blog)**  
+A personal technical blog built with Next.js and Notion.
 
----
+<br />
 
-### 👋 About
+### Currently exploring
 
-I'm a computer science student interested in AI applications and software development. My projects explore LLM workflows, personality-driven NPC dialogue, and tools for everyday use.
+LLM tool use, Agent workflows, and personality-driven NPC dialogue.
 
-I value simple interfaces, readable code, and projects that solve concrete problems.
+### Toolkit
 
-### 🧩 Selected projects
+Python &nbsp; · &nbsp; JavaScript / TypeScript &nbsp; · &nbsp; Next.js &nbsp; · &nbsp; Git
 
-| Project | Focus |
-| :--- | :--- |
-| **[AI Content Agent](https://github.com/XinzheGao/ai-content-agent)** | Exploring conversational content workflows with LLMs, Telegram, and Notion. |
-| **[NPC Personality Comparison](https://github.com/XinzheGao/NPC_Personality_Comparison)** | Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings. |
-| **[Xinzhe.Blog](https://github.com/XinzheGao/Xinzhe.Blog)** | A personal technical blog built with Next.js and Notion. |
-
-### 🛠 Tools & interests
-
-<p>
-  <img src="./assets/stack.svg" alt="Python · TypeScript · Next.js · Git · LLMs / Agents" width="630" />
-</p>
-
-**Tools** — Python · JavaScript / TypeScript · Next.js · Git
-
-**Exploring** — LLM tool use · Agent workflows · NPC dialogue
-
-### 💡 A workflow worth exploring
-
-```text
-  an idea         a plan          a tool          something useful
-     💬     →       🧠      →       🔧      →            ✨
-```
-
-<details>
-<summary>A little more about my interests</summary>
-
-- **Agents:** how natural-language requests become useful actions.
-- **Game AI:** how dialogue gives a character a recognizable personality.
-- **Software:** how small tools make everyday tasks easier.
-
-</details>
+<br />
 
 ---
 
-Open to conversations about AI applications, game AI, and useful software. Feel free to explore the repositories and their project discussions.
+<sub>Small ideas, useful things. &nbsp; ✧ &nbsp; Notes from the journey at <a href="https://xinzhe.dev">xinzhe.dev ↗</a></sub>
