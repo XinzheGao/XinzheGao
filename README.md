@@ -34,8 +34,6 @@
 </a>
 </p>
 
-<br />
-
 ### Currently exploring
 
 <picture>
