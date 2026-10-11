@@ -46,8 +46,8 @@
 ### Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/toolkit-dark.svg" />
-  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/toolkit.svg" alt="Python · JavaScript / TypeScript · Next.js · Git" width="1000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/b080a42178a05f0dda4bc42a9c9d7f23d0e05ab8/assets/toolkit-dark.svg" />
+  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/b080a42178a05f0dda4bc42a9c9d7f23d0e05ab8/assets/toolkit.svg" alt="Python · JavaScript / TypeScript · Vue · Next.js · Docker" width="1000" />
 </picture>
 
 <br />
