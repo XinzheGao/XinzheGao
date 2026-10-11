@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-hero-dark.svg" />
-  <img src="./assets/editorial-hero.svg" alt="Xinzhe Gao — Developer, builder, explorer. A computer science student exploring AI applications, Agent workflows, and game AI." width="1000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/fdedc7038027927b8fca5503a67d38cb577093c3/assets/editorial-hero-dark.svg" />
+  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/fdedc7038027927b8fca5503a67d38cb577093c3/assets/editorial-hero.svg" alt="Xinzhe Gao — Developer, builder, explorer. A computer science student exploring AI applications, Agent workflows, and game AI." width="1000" />
 </picture>
 
 <br />
