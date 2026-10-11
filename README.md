@@ -7,14 +7,26 @@
 
 ### Selected work
 
-**[AI Content Agent ↗](https://github.com/XinzheGao/ai-content-agent)**  
-Exploring conversational content workflows with LLMs, Telegram, and Notion.
+<a href="https://github.com/XinzheGao/ai-content-agent">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/160f59e631fae89edce414ff4653348861577ebc/assets/work-agent-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/160f59e631fae89edce414ff4653348861577ebc/assets/work-agent.svg" alt="AI Content Agent — Exploring conversational content workflows with LLMs, Telegram, and Notion." width="1000" />
+  </picture>
+</a>
 
-**[NPC Personality Comparison ↗](https://github.com/XinzheGao/NPC_Personality_Comparison)**  
-Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings.
+<a href="https://github.com/XinzheGao/NPC_Personality_Comparison">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/160f59e631fae89edce414ff4653348861577ebc/assets/work-npc-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/160f59e631fae89edce414ff4653348861577ebc/assets/work-npc.svg" alt="NPC Personality Comparison — Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings." width="1000" />
+  </picture>
+</a>
 
-**[Xinzhe.Blog ↗](https://github.com/XinzheGao/Xinzhe.Blog)**  
-A personal technical blog built with Next.js and Notion.
+<a href="https://github.com/XinzheGao/Xinzhe.Blog">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/160f59e631fae89edce414ff4653348861577ebc/assets/work-blog-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/160f59e631fae89edce414ff4653348861577ebc/assets/work-blog.svg" alt="Xinzhe.Blog — A personal technical blog built with Next.js and Notion." width="1000" />
+  </picture>
+</a>
 
 <br />
 
