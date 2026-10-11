@@ -20,11 +20,17 @@ A personal technical blog built with Next.js and Notion.
 
 ### Currently exploring
 
-LLM tool use, Agent workflows, and personality-driven NPC dialogue.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/b647d64f42ec5311e856b929d7d3f5bd95e45f60/assets/exploring-dark.svg" />
+  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/b647d64f42ec5311e856b929d7d3f5bd95e45f60/assets/exploring.svg" alt="LLM tool use: connecting models to useful actions. Agent workflows: planning, tool calls, and useful feedback. NPC dialogue: exploring personality through conversation." width="1000" />
+</picture>
 
 ### Toolkit
 
-Python &nbsp; · &nbsp; JavaScript / TypeScript &nbsp; · &nbsp; Next.js &nbsp; · &nbsp; Git
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/b647d64f42ec5311e856b929d7d3f5bd95e45f60/assets/toolkit-dark.svg" />
+  <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/b647d64f42ec5311e856b929d7d3f5bd95e45f60/assets/toolkit.svg" alt="Python · JavaScript / TypeScript · Next.js · Git" width="1000" />
+</picture>
 
 <br />
 
