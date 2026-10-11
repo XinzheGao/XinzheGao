@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Xinzhe Gao — AI Applications, Agents, Game AI</title>
+  <desc id="desc">A dark terminal-inspired banner with an abstract connected-node constellation.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b32"/><stop offset="1" stop-color="#0b1120"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#63e6be"/><stop offset="1" stop-color="#8eb5ff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#4777c4" stop-opacity=".24"/><stop offset="1" stop-color="#4777c4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a0b4d8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="960" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="960" height="300" rx="18" fill="url(#grid)"/>
+  <ellipse cx="790" cy="146" rx="230" ry="180" fill="url(#glow)"/>
+  <path d="M20 1H940" stroke="url(#accent)" stroke-opacity=".55"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <circle cx="38" cy="30" r="5" fill="#ff7b86"/><circle cx="56" cy="30" r="5" fill="#f2c96d"/><circle cx="74" cy="30" r="5" fill="#63d9ae"/>
+    <text x="98" y="35" fill="#94a6c6" font-size="12" letter-spacing="1.5">xinzhe / workspace</text>
+    <text x="40" y="83" fill="#63e6be" font-size="12" letter-spacing="2.5">BUILD · EXPLORE · ITERATE</text>
+    <text x="38" y="140" fill="#f0f5ff" font-size="48" font-weight="700" letter-spacing="-1">Xinzhe Gao</text>
+    <text x="40" y="177" fill="#b5c5e0" font-size="17">AI Applications / Agents / Game AI</text>
+    <text x="40" y="213" fill="#8a9bbb" font-size="14">From a small idea to something useful.</text>
+    <rect x="40" y="242" width="222" height="27" rx="7" fill="#63e6be" fill-opacity=".07" stroke="#63e6be" stroke-opacity=".24"/>
+    <text x="52" y="260" fill="#83dfc7" font-size="12" font-family="Menlo,Consolas,monospace">$ curiosity.run()</text>
+    <path d="M225 249V262" stroke="#83dfc7" stroke-width="2"/>
+  </g>
+  <g fill="none" stroke="#688bc0" stroke-opacity=".45" stroke-width="1.5">
+    <path d="M651 157L726 86L826 119L874 202L764 241L651 157L826 119L764 241L726 86"/>
+    <path d="M726 86L871 65L826 119M874 202L910 133L826 119"/>
+  </g>
+  <g fill="#101c31" stroke="#8eb5ff" stroke-width="2">
+    <circle cx="651" cy="157" r="12"/><circle cx="726" cy="86" r="8"/><circle cx="826" cy="119" r="15"/>
+    <circle cx="874" cy="202" r="8"/><circle cx="764" cy="241" r="9"/><circle cx="871" cy="65" r="5"/><circle cx="910" cy="133" r="5"/>
+  </g>
+  <circle cx="826" cy="119" r="26" fill="none" stroke="#63e6be" stroke-opacity=".2"/>
+  <circle cx="826" cy="119" r="5" fill="#63e6be"/>
+  <circle cx="651" cy="157" r="4" fill="#8eb5ff"/>
+  <g font-family="Menlo,Consolas,monospace" font-size="11" fill="#a4b8d8">
+    <text x="625" y="187">prompt</text><text x="703" y="64">plan</text><text x="807" y="161">tools</text><text x="742" y="269">memory</text>
+  </g>
+</svg>
