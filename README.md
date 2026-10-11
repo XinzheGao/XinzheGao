@@ -10,8 +10,8 @@
 <p>
 <a href="https://github.com/XinzheGao/ai-content-agent">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/work-agent-dark.svg" />
-    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/work-agent.svg" alt="AI Content Agent — Exploring conversational content workflows with LLMs, Telegram, and Notion." width="1000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-agent-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-agent.svg" alt="AI Content Agent — Exploring conversational content workflows with LLMs, Telegram, and Notion." width="1000" />
   </picture>
 </a>
 </p>
@@ -19,8 +19,8 @@
 <p>
 <a href="https://github.com/XinzheGao/NPC_Personality_Comparison">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/work-npc-dark.svg" />
-    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/work-npc.svg" alt="NPC Personality Comparison — Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings." width="1000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-npc-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-npc.svg" alt="NPC Personality Comparison — Researching how different LLMs express NPC personalities under shared TIPI-J / Big Five settings." width="1000" />
   </picture>
 </a>
 </p>
@@ -28,8 +28,8 @@
 <p>
 <a href="https://github.com/XinzheGao/Xinzhe.Blog">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/work-blog-dark.svg" />
-    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/4ab0e1c2f2dce5fde4a1dc16d5b9b61aa6a9528c/assets/work-blog.svg" alt="Xinzhe.Blog — A personal technical blog built with Next.js and Notion." width="1000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-blog-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-blog.svg" alt="Xinzhe.Blog — A personal technical blog built with Next.js and Notion." width="1000" />
   </picture>
 </a>
 </p>
