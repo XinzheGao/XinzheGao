@@ -26,10 +26,10 @@
 </p>
 
 <p>
-<a href="https://github.com/XinzheGao/Xinzhe.Blog">
+<a href="https://github.com/XinzheGao/npc-personality-lab">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-blog-dark.svg" />
-    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/dabc0e4d3d9b366f4f5f5986f4f256878a3857c0/assets/work-blog.svg" alt="Xinzhe.Blog — A personal technical blog built with Next.js and Notion." width="1000" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XinzheGao/XinzheGao/1ad3f10a4c9567fd8b6984a0edafc0808bcaef7d/assets/work-npc-lab-dark.svg" />
+    <img src="https://raw.githubusercontent.com/XinzheGao/XinzheGao/1ad3f10a4c9567fd8b6984a0edafc0808bcaef7d/assets/work-npc-lab.svg" alt="NPC Personality Lab — PyTorch intent classification, TIPI-J personality parameters, and stateful NPC interaction." width="1000" />
   </picture>
 </a>
 </p>
